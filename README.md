@@ -10,4 +10,5 @@ For 2.0, I am refactoring the game into a React app, as well as updating the sty
 
 ### Wireframe
 ---
-![Wireframe](/img/readme/Adventure Game 2.0 Wireframe.png)
+
+![Wireframe](img/readme/Adventure_Game_2.0_Wireframe.png)
